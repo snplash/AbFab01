@@ -23,6 +23,6 @@
 		<string>AbFab01</string>
 	</array>
 	<key>pluginType</key>
-	<string>imageFilter</string>
+	<string>roiTool</string>
 </dict>
 </plist>
